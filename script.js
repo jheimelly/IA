@@ -1,8 +1,3 @@
-
-ANA LIVIA KLEINER <ana.kleiner@escola.pr.gov.br>
-10:07 (há 0 minuto)
-para mim
-
 const caixaPrincipal = document.querySelector("caixa-principal");
 const caixaPerguntas = document.querySelector("caixa-perguntas");
 const caixaAlternativas = document.querySelector("caixa-alternativas");
